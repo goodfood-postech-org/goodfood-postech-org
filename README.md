@@ -6,5 +6,6 @@
 - [Serviço Cliente | Auth](https://github.com/goodfood-postech-org/goodfood-postech-auth)
 - [Banco de dados](https://github.com/goodfood-postech-org/goodfood-postech-db)
 - [EKS](https://github.com/goodfood-postech-org/goodfood-postech-k8s)
+- [API Gateway](https://github.com/goodfood-postech-org/goodfood-postech-apigateway)
 
 [Sonar](https://sonarcloud.io/organizations/goodfood-postech-org/projects?sort=name)
